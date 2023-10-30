@@ -1,0 +1,9 @@
+body {background-color: #083b4c;}
+.squareBox {
+    height: 6rem;
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
